@@ -32,7 +32,7 @@ def read_dht11_sensor():
             # DHT 센서는 가끔 읽기 오류가 발생할 수 있습니다.
             print(f"센서 읽기 오류: {error.args[0]}")
             return None, None
-     return None, None
+    return None, None
     
     # --- 시뮬레이션 코드 시작 ---
     # 실제 센서가 없을 경우, 아래 코드가 가상의 데이터를 생성합니다.

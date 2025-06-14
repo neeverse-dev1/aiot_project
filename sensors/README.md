@@ -6,3 +6,7 @@
 
 ## DHT11 센서 
 
+```bash
+def sum(a, b):
+    return a+b
+```
