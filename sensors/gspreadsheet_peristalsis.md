@@ -29,4 +29,5 @@
 ```
 
 4. 확인 
-- 
+-
+![Alt text](https://raw.githubusercontent.com/neeverse-dev1/aiot_project/refs/heads/main/sensors/capture_gspread_1.png)
