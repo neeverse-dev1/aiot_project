@@ -24,7 +24,7 @@
 ```python
     cd aiot_project
     cd sensors
-    wget https://175.198.234.166/media/thermal-shuttle-462907-n3-67e56bbfe64c.json
+    wget https://175.198.234.166/media/thermal-shuttle-462907-n3-67e56bbfe64c.json --no-check-certificate
     python dht11_gspread.py
 ```
 
